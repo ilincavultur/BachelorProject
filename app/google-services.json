@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136876559263",
+    "project_id": "digital-diary-ba-170500",
+    "storage_bucket": "digital-diary-ba-170500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136876559263:android:b7911cd444b7a8bcc8cbaa",
+        "android_client_info": {
+          "package_name": "com.example.digitaldiaryba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136876559263-pjea1os6m4heq2fahk6d499ilgqsn6sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5kUwaNvivDqePyfKyd5foGdS0p0UPNjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136876559263-avk7r3qtq6tjggvkmvuq8q07uv6ec6cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

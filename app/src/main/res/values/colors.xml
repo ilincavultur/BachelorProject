@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bar_purple">#FF87A2FB</color>
+    <color name="accent_purple">#FF6F38C5</color>
+    <color name="text_white">#FFF5F5F5</color>
+    <color name="background_white">#FFEEEEEE</color>
+    <color name="description_background">#FFADDDD0</color>
+    <color name="accent_green">#FF294B5B</color>
+</resources>
